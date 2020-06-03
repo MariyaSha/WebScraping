@@ -1,7 +1,9 @@
 # WebScraping
+<br>
 Create a database from scratch by extracting html elements from a webpage
 <br>
 <b>Modules Used:</b> Urllib.request, BeautifulSoup, Regex and Pandas.
+<br>
 <br>
 <b>Step by step walk-through:</b>  
 <br>
